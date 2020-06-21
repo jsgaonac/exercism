@@ -10,7 +10,7 @@ pom.xml.asc
 *.class
 /lib/
 /classes/
-/target/
+/clojure/**/target
 /checkouts/
 .lein-deps-sum
 .lein-repl-history
